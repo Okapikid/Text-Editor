@@ -1,5 +1,3 @@
-import { WebpackOptionsValidationError } from "webpack";
-
 const butInstall = document.getElementById("buttonInstall");
 
 // Logic for installing the PWA
